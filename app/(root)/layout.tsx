@@ -7,4 +7,4 @@ const RootLayout = ({children}: {children : ReactNode}) => {
     </main>
   )
 }
-export default RootLayout
+export default RootLayout;
